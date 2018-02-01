@@ -6,3 +6,5 @@
 *.exe
 #ignore bmp files#
 *.bmp
+#ignore the folder#
+*.test
