@@ -4,3 +4,5 @@
 *.dat
 #ignore the exe file#
 *.exe
+#ignore bmp files#
+*.bmp
