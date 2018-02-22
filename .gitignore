@@ -1,5 +1,4 @@
-#ignore dat files#
-*.txt
+
 #ignore data files#
 *.dat
 #ignore the exe file#

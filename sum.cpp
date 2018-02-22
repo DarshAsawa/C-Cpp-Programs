@@ -4,7 +4,7 @@ int main()
 {
 	   int val, num, sum = 0;
  
-    cout << "Enter the numbers : ";
+    cout << "Enter the numbers :: ";
     cin >> val;
     num = val;
     while (num != 0)
