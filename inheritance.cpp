@@ -3,7 +3,11 @@ using namespace std;
 <<<<<<< HEAD
 class darsh	
 {
+<<<<<<< HEAD
 	protected:
+=======
+	private:
+>>>>>>> test2
 	 int i=5;
 };
 class def : public/*protected*/ darsh
