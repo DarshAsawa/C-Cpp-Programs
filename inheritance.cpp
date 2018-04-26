@@ -1,11 +1,11 @@
 #include<iostream>
 using namespace std;
-class abc
+class test
 {
 	protected:
 	 int i=5;
 };
-class def : public/*protected*/ abc
+class def : public/*protected*/ test
 {
 int j=6;
 	//public:
