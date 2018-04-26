@@ -1,13 +1,13 @@
 #include<iostream>
 using namespace std;
-class abc
+class darsh	
 {
 	public:
 	 int i=5;
 };
-class def : public/*protected*/ abc
+class def : public/*protected*/ darsh
 {
-int j=6;
+	double j=6;
 	//public:
 	
 };
