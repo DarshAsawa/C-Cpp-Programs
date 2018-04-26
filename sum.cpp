@@ -6,12 +6,12 @@ int main()
 {
 	   int val, num, sum = 0;
  
-    cout << "Enter the number :: ";
+    cout << "Enter the numbers :: ";
     cin >> val;
     num = val;
     while (num != 0)
     {
-        sum = sum + num % 10;
+        sum = sum + num % 10;//getting the unit digit and then the tens digit.
         num = num / 10;
     }
     cout << "The sum of the digits of "
