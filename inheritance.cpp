@@ -3,7 +3,7 @@ using namespace std;
 <<<<<<< HEAD
 class darsh	
 {
-	public:
+	protected:
 	 int i=5;
 };
 class def : public/*protected*/ darsh
