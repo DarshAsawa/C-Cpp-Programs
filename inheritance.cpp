@@ -2,7 +2,7 @@
 using namespace std;
 class abc
 {
-	protected:
+	public:
 	 int i=5;
 };
 class def : public/*protected*/ abc
