@@ -1,10 +1,10 @@
 #include<stdio.h>
 int main()
 {
+printf('Hello World!!')
+
 printf("hello");
-printf("hello");
-printf("hello");
-printf("checking for the hashes");
+
 printf("hey its me darsh asawa ");
 }
 
