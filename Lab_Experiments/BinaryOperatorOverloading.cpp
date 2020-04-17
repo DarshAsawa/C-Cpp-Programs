@@ -20,6 +20,7 @@ void display( )
 {
 cout<<endl<<hours<<" hours and "<<minutes<<" minutes.";
 }
+
 friend time operator + (time, time);
 };
 

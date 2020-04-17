@@ -1,12 +1,13 @@
 
-//program to add sum of the digits of a given number;
+//program to add sum of the digits of a given number
+
 #include<iostream>
 using namespace std;
 int main()
 {
 	   int val, num, sum = 0;
  
-    cout << "Enter the numbers :: ";
+    cout << "Enter the number : ";
     cin >> val;
     num = val;
     while (num != 0)
